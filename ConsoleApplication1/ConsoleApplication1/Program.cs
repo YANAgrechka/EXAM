@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             // заданиепаар
             // pffl
             // asdsads
-
+            // ты не сдашь
         }
     }
 }
