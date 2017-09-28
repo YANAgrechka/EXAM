@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             // задание
             // pffl
+            // asdsads
+
         }
     }
 }
