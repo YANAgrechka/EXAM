@@ -8,10 +8,9 @@ namespace WindowsFormsApplication1
 {
     public class Car
     {
-        public string model;
-        public int price;
-        public string Model { get; set; }
-        public int Price { get; set; }
+        
+        public string model { get; set; }
+        public int price { get; set; }
     }
 
     static class Program
