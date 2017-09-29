@@ -10,10 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            // заданиепаар
-            // pffl
-            // asdsads
-            // ты не сдашь
+            // задание
+           
         }
     }
 }
